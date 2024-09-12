@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AsfaDataScientist
+- 👋 Hi, I’m @AsfaMateeb
 - 👀 I’m interested in problem solving . How using AI and ML we are solving real world problems fascinates me and i want to do the same.
-- 🌱 I’m currently learning  Data Science , Machine learning , Deep learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Data Analytics, Data Science , Machine learning , Deep learning
 - 📫 How to reach me --> email : asfamateen10@gmail.com
 
 <!---
